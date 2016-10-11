@@ -37,13 +37,13 @@ Progress Report | Due
 
 **Resources:**
 
-1. [https://view.officeapps.live.com/op/view.aspx?src=http://www.sdccdonline.net/faculty/flex/TemplatefortheDesignandDevelopmentofOnlineCourses.doc](Template Content for Learning Module)
+1. [Template Content for Learning Module](https://view.officeapps.live.com/op/view.aspx?src=http://www.sdccdonline.net/faculty/flex/TemplatefortheDesignandDevelopmentofOnlineCourses.doc)
 
-2. [http://www.american.edu/provost/registrar/pdf/cp.cfm](American University curriculum proposal templates) 
+2. [American University Curriculum Proposal Templates](http://www.american.edu/provost/registrar/pdf/cp.cfm)
 
-3. [https://drive.google.com/open?id=0B1_QDkJnN610VS10VExxeFE0YU0](PowerPoint: Technical Documentation)
+3. [PowerPoint: Technical Documentation](https://drive.google.com/open?id=0B1_QDkJnN610VS10VExxeFE0YU0)
 
-4. [https://drive.google.com/open?id=0B1_QDkJnN610MFVXcjQ5WXoyMTQ](Sample OER Curriculum Proposal) 
+4. [Sample OER Curriculum Proposal](https://drive.google.com/open?id=0B1_QDkJnN610MFVXcjQ5WXoyMTQ)
 
 
 ## Thursday 10-6
