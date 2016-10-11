@@ -18,7 +18,7 @@ Progress Report | Due
 
 
 
-*## Tuesday 10-11
+## Tuesday 10-11
 
 **Focus Points:** 
 
