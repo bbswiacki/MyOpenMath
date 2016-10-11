@@ -1,3 +1,4 @@
+
 ### Note: Do not pull from this branch; for project-related files, pull from [https://github.com/adavis46/writ350-fa16/tree/project-components](project-components) branch. 
 
 # writ350-fa16 Schedule 
@@ -33,6 +34,16 @@ Progress Report | Due
 1. Audience Profile 
 
 2. Progress Report 1
+
+**Resources:**
+
+1. [https://view.officeapps.live.com/op/view.aspx?src=http://www.sdccdonline.net/faculty/flex/TemplatefortheDesignandDevelopmentofOnlineCourses.doc](Template Content for Learning Module)
+
+2. [http://www.american.edu/provost/registrar/pdf/cp.cfm](American University curriculum proposal templates) 
+
+3. [https://drive.google.com/open?id=0B1_QDkJnN610VS10VExxeFE0YU0](PowerPoint: Technical Documentation)
+
+4. [https://drive.google.com/open?id=0B1_QDkJnN610MFVXcjQ5WXoyMTQ](Sample OER Curriculum Proposal) 
 
 
 ## Thursday 10-6
