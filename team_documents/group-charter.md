@@ -1,5 +1,6 @@
 # Template for Group Charter
 
+<<<<<<< HEAD
 
 Team 3 Charter- MyOpenMath
 
@@ -29,3 +30,42 @@ We intend to avoid conflict by collaborating. Whether it be in person or via ema
 
 Unacceptable Work
 Should a team member submit unfit work the team member should discuss with the project manager or have a collaborative meeting with the entire team and submit a revised form of the work within 24 hours. 
+=======
+Transcribe team charter and commit to your master repository. <a href="http://www.w3schools.com/html/">Basic HTML</a> tags allowed. 
+
+<table>
+<th colspan="4"><h1 align="center">Team Charter (Name of Team)</h1></th>
+<tr>
+<td>Broad Team Goals</td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>Measurable Team Goals</td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>Personal Goals</td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>Individual Committment</td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>Other Concerns</td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>Conflict Resolution</td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>Missed Deadlines</td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td>Unacceptable Work</td>
+<td colspan="3"></td>
+</tr>
+</table> 
+>>>>>>> parent of 44b0888... Update group-charter.md
