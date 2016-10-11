@@ -1,6 +1,22 @@
 ### *Note: Do not pull from this branch; for project-related files, pull from [https://github.com/adavis46/writ350-fa16/tree/project-components](project-components) branch. 
 
 # writ350-fa16 Schedule 
+Deliverable | Deadline
+----------- | --------
+Beta of Component 1 | Sunday 10-16
+Beta of Components 2 and 3 | Thursday 10-20
+Project Version 1.0 | Tuesday 10-25 
+Team Evaluation | Friday 10-28
+
+
+Progress Report | Due
+--------------- |  ---
+1 | 10-11
+2 | 10-18
+3 | 10-20
+4 | 10-24
+
+
 
 ## Tuesday 10-11
 
