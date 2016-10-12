@@ -1,31 +1,81 @@
-# writ350-fa16
-The README file in a GitHub repository serves as the "welcome" page to that repository. You can use it for a variety of purposes depending on how your group develops a workflow. 
 
-The purpose of this readme is to outline the project's GitHub technical requirements. Your group will be using a GitHub repository to complete project 2. 
+### Note: Do not pull from this branch; for project-related files, pull from [https://github.com/adavis46/writ350-fa16/tree/project-components](project-components) branch. 
 
-<h2>Tuesday 10-4</h2>
-Focus Points:
-<ul>
-<li>Understanding Git</li>
-<li>Understanding team roles and project management</li>
-</ul>
-Deliverables:
-<ul>
-<li>Team Charter (commit to GitHub group repo) </li>
-</ul>
-
-<br>
+# writ350-fa16 Schedule 
+Deliverable | Deadline
+----------- | --------
+Beta of Component 1 | Sunday 10-16
+Beta of Components 2 and 3 | Thursday 10-20
+Project Version 1.0 | Tuesday 10-25 
+Team Evaluation | Friday 10-28
 
 
+Progress Report | Due
+--------------- |  ---
+1 | 10-11
+2 | 10-18
+3 | 10-20
+4 | 10-24
 
-<h2>Instructions</h2>
 
-<ol>
-<li>Create a <a href="https://github.com/join?source=header-home">Github user account </a></li>
-<li>Project Manager: fork this repository (writ350-sampleproject) and name the fork after your group's product focus (in the forked repository, go to "Settings" to change the name). </li>
-<li>Project Manager: Add group member as collaborators to the forl by clicking "Collaborators" within "Settings." Search by username or email address. </li>
-</ol>
 
-How your group uses the Git workflow is up to your project manager (and the group's consensus). You may choose to work soley off the master repository, making all changes, uploads, and revisions there. Or, each group member may create a branch from the master repository (like the project manager did with the class repository) and work independently, sending pull requests when each benchmark of the project is met. 
+## Tuesday 10-11
+
+**Focus Points:** 
+
+1. Review Audience Profile and Analysis
+
+2. Introduce guidelines and specifications for technical documents
+
+3. Issue team progress report 1 (master template --> https://github.com/adavis46/writ350-fa16/blob/master/team_documents/reports.md) 
+
+**Deliverables:**
+
+1. Audience Profile 
+
+2. Progress Report 1
+
+**Resources:**
+
+1. [Template Content for Learning Module](https://view.officeapps.live.com/op/view.aspx?src=http://www.sdccdonline.net/faculty/flex/TemplatefortheDesignandDevelopmentofOnlineCourses.doc)
+
+2. [American University Curriculum Proposal Templates](http://www.american.edu/provost/registrar/pdf/cp.cfm)
+
+3. [PowerPoint: Technical Documentation](https://drive.google.com/open?id=0B1_QDkJnN610VS10VExxeFE0YU0)
+
+4. [Sample OER Curriculum Proposal](https://drive.google.com/open?id=0B1_QDkJnN610MFVXcjQ5WXoyMTQ)
+
+
+## Thursday 10-6
+
+**Focus Points:**
+
+1. Understand audience and purpose for technical documentation, learning modules, and lesson plans
+
+2. Understand how to research purpose and develop a specific product outline/pitch
+
+
+**Deliverables**
+
+1. Task List and Summary Pitch (commit to your master repo)
+
+2. Team Progress Report 1 (commit to your master repo)
+
+
+
+## Tuesday 10-4
+
+**Focus Points:**
+
+1. Understanding Git
+
+2. Understanding team roles and project management
+
+**Deliverables:**
+
+1. Team Charter (commit to GitHub group repo) 
+
+
+
 
 
