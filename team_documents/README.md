@@ -1,4 +1,4 @@
-#H1MyOpenMath
+#MyOpenMath
 
 MyOpenMath is open source educational software free to use by students and teachers, and it also links with open source textbooks.  This software is designed to be an open source and free alternative to paid math lab software and textbooks.  
 	When comparing MyOpenMath to other software, like Person’s MyMathLab, when it comes to price and budget, it saves the school or students about $120 per person per year for the program alone.  When you factor in the textbook that goes along with it that is also open source, it saves the school or student about $250 per student.  That is $250 per student that can be put back into other programs or directed to other needs of the student.  That could be $5,000 of savings for one semester for the school.   
