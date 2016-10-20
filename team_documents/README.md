@@ -18,7 +18,7 @@ In general the programs are similar and equally as useful in the education syste
 
 ##My Open Math Criteria Deliverables
 
-1.	 Product Purpose:
+###	 Product Purpose:
 
 1.	For instructors, My Open Math delivers the availability to adopt an online text book, with valuable, online interactive homework, and no additional fees for the students.
 
