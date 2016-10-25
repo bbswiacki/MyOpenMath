@@ -116,4 +116,12 @@ Visual Aspects and Legibility:
 7.	Long-term access to course data
 
 
+#Part 2 - Talking Points
+
+My Open Math’s website criteria delivers the availability to adopt an online textbook, with valuable, online interactive homework, with no additional fees, which offers homework with immediate feedback provided, quizzes, and tests with rich mathematical content, as well as a full course management system including file postings, discussion forums, videos, handouts, instructor resources, and a full grade book, while also providing the available classroom options of a web enhancement of an on-campus course, an added feature to a hybrid course, a fully online course, and an individual self- study course. 
+
+As a whole, My Open Math delivers free hosted use of the open-source platform ImathAS, through free, open textbooks on OpenTextBookStore.com, while also providing free classroom use of the platform through the available course templates of algebra, pre-calculus, college algebra, calculus, math for liberal arts, and statistics, as well as delivering community-based support through open support forums and training videos, and offering availability of comprehensive support for MyOpenMath through Lumen Learning. 
+
+My Open Math’s web site ergonomics delivers website efficiency through effectively clear and organized content, easy navigation and orientation use through individual, distinct sections with bold titles, and easy methods of returning to the home page, and lastly, positive visual aspects and legibility through easy to read, visually identifying components through simply printed content, direct text lines, and dramatic visual contrasts among different parts of the site, such as bolding effects among each important subject division. 
+
 
