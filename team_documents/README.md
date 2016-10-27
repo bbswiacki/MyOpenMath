@@ -16,55 +16,60 @@ In general the programs are similar and equally as useful in the education syste
 
  
 
-##My Open Math Criteria Deliverables
 
-###	 Product Purpose:
+##My Open Math’s Website Criteria Delivers:
 
-1.	For instructors, My Open Math delivers the availability to adopt an online text book, with valuable, online interactive homework, and no additional fees for the students.
+•	Availability to adopt a free online textbook, with valuable, online interactive content
 
-2.	For students, My Open Math delivers the availability to enroll in an       instructor-based course, or the self-study course, as both offer educational, mathematical exercises with immediate provided feedback through free and open text books. 
+•	Free hosted use of the open-source platform ImathAS 
 
-3.	Product Attributes: Deliverable Features:
+•	Use through free, open textbooks on OpenTextBookStore.com
 
-1.	My Open Math houses several templates of courses, which include algebra, pre-calculus, college algebra, calculus, math for liberal arts and introductory statistics. 
-2.	Customization is easy with MyOpenMath’s flexible platform for creating assessments from our library of 10,000+ questions and videos, access to some of the most widely used math OER texts, and features such as discussion boards and email system
-3.	Gradebook features include the ability to record offline grades, use weighted categories for calculating final course grades, and individual management of student scores.
-4.	MyOpenMath can be used as a standalone LMS, or can be integrated into Blackboard, Canvas, Brightspace, Moodle, and Sakai. 
+•	Community-based support through open support forums and training videos
 
+•	Availability of comprehensive support for MyOpenMath through Lumen Learning
 
- 
+•	Homework with immediate feedback
 
+•	Quizzes and tests with rich mathematical content 
 
-
-
-
-3.Product Target Audience/ Demographic: 
-
-1. Successfully targets the target demographic of instructors with the deliverable of instructor-based courses which provides delivery of homework, quizzes, and tests with rich mathematical content, as well as a management system, file postings, discussion forums, videos, handouts, instructor resources, and a full grade book. 
-
-2. My Open Math also successfully targets instructors by including a few different choices of school-related courses for flexibility purposes, such as web-enhancement of an on-campus course, an added feature of a hybrid course, or a fully online course.
-
-3. My Open Math also targets college students by delivering interactive assessment to supplement several free and open math textbooks, delivering effective college-level tests, homework’s, and quizzes, with better deliverable outcomes of better improved math skills from the availability to math exercises and the deliverables of receiving immediate feedback
-   	
-4. My Open Math also targets college students by offering self-study courses as free mathematical practice tools, which provide self-grading assessments, unlimited practice with instant feedback and video lessons. 
-
-
-4.  Product Accessibility:
-1. Delivers easy, free access to My Open Math with user-friendly components that can be assessed 24 hours a day with the simple login of the student or the instructors created My Open Math username and password. 
-
-5.  Product Manageability:
-1. Delivers very organized and thorough management content by providing a full course management system including file posting, discussion forums, and a clearly presented, easy accessible full grade book. 
-
-6.  Product Admission:
-1.  Delivers free admission and usage of My Open Math to any teacher or student within a University, by simply only creating an account with a username and password for My Open Math. 
+•	A full course management system including: 
+		File postings
+		Discussion forums
+		Videos & Handouts
+		Instructor resources
+		A full grade book 
+		
+		
+•	Free classroom uses of the platform through the available course templates of:
+	Algebra
+	Pre-calculus
+	College algebra 
+	Calculus
+	Math for liberal arts
+	Statistics
+	
+	
+•	Available classroom options including: 
+o	Web enhancement of an on-campus course
+o	An added feature to a hybrid course
+o	A fully online course
+o	An individual self- study course
 
 
-
+My Open Math’s Web Site Ergonomics Delivers:
+•	Website efficiency through effectively clear and organized content
+•	Easy navigation and orientation use through distinct sections with bold titles
+•	Easy methods of returning to the home page 
+•	Positive visual aspects and legibility through:
+o	Easy to read, visually identifying components 
+o	Simply printed content
+o	Direct text lines
+o	Dramatic visual contrasts, such as bolding effects among each subject division
 
- *My Open Math Product Analysis Deliverables*
-*Web Ergonomics of My Open Math*
 
 
+1.
 *My Open Math Web Ergonomics Deliverables*
 
 Website Efficiency:
