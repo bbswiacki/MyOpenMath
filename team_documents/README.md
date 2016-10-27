@@ -68,9 +68,14 @@ In general the programs are similar and equally as useful in the education syste
 
 
 My Open Math’s Web Site Ergonomics Delivers:
+
 •	Website efficiency through effectively clear and organized content
+
 •	Easy navigation and orientation use through distinct sections with bold titles
+
 •	Easy methods of returning to the home page 
+
+
 •	Positive visual aspects and legibility through:
 o	Easy to read, visually identifying components 
 o	Simply printed content
