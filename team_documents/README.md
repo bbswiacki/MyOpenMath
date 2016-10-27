@@ -42,19 +42,29 @@ In general the programs are similar and equally as useful in the education syste
 		
 		
 •	Free classroom uses of the platform through the available course templates of:
+	
 	Algebra
+	
 	Pre-calculus
+	
 	College algebra 
+	
 	Calculus
+	
 	Math for liberal arts
+	
 	Statistics
 	
 	
 •	Available classroom options including: 
-o	Web enhancement of an on-campus course
-o	An added feature to a hybrid course
-o	A fully online course
-o	An individual self- study course
+ 	
+	Web enhancement of an on-campus course
+	
+	An added feature to a hybrid course
+	
+	A fully online course
+	
+	An individual self- study course
 
 
 My Open Math’s Web Site Ergonomics Delivers:
